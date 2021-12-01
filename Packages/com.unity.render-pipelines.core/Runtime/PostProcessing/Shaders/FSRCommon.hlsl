@@ -32,9 +32,6 @@
 #define A_GPU 1
 #define A_HLSL 1
 
-// Use mobile 16 bit FSR when available
-#define FSR_MOBILE 1
-
 // Enable either the 16-bit or the 32-bit implementation of FSR depending on preprocessor definitions
 #if FSR_ENABLE_16BIT
 #define A_HALF
