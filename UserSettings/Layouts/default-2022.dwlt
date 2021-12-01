@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 30
+  controlID: 18
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -125,7 +125,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 103
+  controlID: 28
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -150,7 +150,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 28
+  controlID: 84
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -170,8 +170,8 @@ MonoBehaviour:
     y: 0
     width: 605
     height: 1307
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -196,8 +196,8 @@ MonoBehaviour:
     y: 0
     width: 484
     height: 871
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -298,7 +298,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 0
-  controlID: 29
+  controlID: 17
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -367,22 +367,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Settings
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 0
   m_StartGridSize: 16
-  m_LastFolders:
-  - Assets
+  m_LastFolders: []
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: C:\Repositories\Unity-Graphics\TestProjects\OculusAppSpaceWarpSimple
+  m_LastProjectPath: C:\Unity\Projects\urp_appsw_fsr
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: d2d40000
     m_LastClickedID: 54482
-    m_ExpandedIDs: 00000000d2d4000000ca9a3bffffff7f
+    m_ExpandedIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -410,7 +409,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000d2d40000d4d40000dad40000c6130100
+    m_ExpandedIDs: ffffffff00000000d4c4000002c5000004c5000006c5000008c50000dee00000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -540,7 +539,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: c8aafeffc6bafeffe2bbfeff28cefeffe8cefeffc4d3feff00e9feffc0e9feff9ceefeffe208ffff8009ffff9c0cffffb82affff542bffff402effffc638ffff6239ffff4e3cfffff246ffff8e47ffff7a4affff985affff565bffff425effff9c6fffff5a70ffff4673ffff9c79ffffba86ffff7887ffff7e8afffff49bffffe8a9fffff8e90000eeeb00003aec000034ee000076ef0000c2ef00005ef80000d2f800001afc0000f8fd0000
+      m_ExpandedIDs: e876ffffaa77ffff387cffffae86ffff7887ffff228cffff32b4ffff26b6ffff44df00006aee0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -833,9 +832,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 16.928587, y: 1.1326009, z: 7.4196267}
+    m_Target: {x: -16.38483, y: 1.0754957, z: -12.231277}
     speed: 2
-    m_Value: {x: 16.928587, y: 1.1326009, z: 7.4196267}
+    m_Value: {x: -16.38483, y: 1.0754957, z: -12.231277}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -881,9 +880,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.00025916946, y: 0.5745122, z: -0.00016967805, w: 0.8185121}
+    m_Target: {x: -0.0012648986, y: 0.92446077, z: -0.0030584463, w: -0.38130504}
     speed: 2
-    m_Value: {x: 0.001486896, y: 0.57450366, z: -0.0010314628, w: 0.8184999}
+    m_Value: {x: -0.0018367934, y: 0.92444026, z: -0.004445075, w: -0.38129658}
   m_Size:
     m_Target: 10
     speed: 2

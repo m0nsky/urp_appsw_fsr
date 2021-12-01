@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/ScenePackage/SpaceWarpScene.unity
-    guid: d6147a029f43ab74e86c8c913478b432
+    path: Assets/Scenes/Example.unity
+    guid: 55bb0e6b159959d4d8bcc6190d55eb85
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: c735a5cc32eb40641aba9942e2a747bf, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c3ddd77ff5b2f844191e017907ac37e9, type: 2}
