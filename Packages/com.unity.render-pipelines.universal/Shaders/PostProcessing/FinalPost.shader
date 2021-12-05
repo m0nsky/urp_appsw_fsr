@@ -29,10 +29,8 @@ Shader "Hidden/Universal Render Pipeline/FinalPost"
             #define FSR_INPUT_TEXTURE _SourceTex
             #define FSR_INPUT_SAMPLER sampler_LinearClamp
 
-        #if !defined(SHADER_API_D3D11)
             #define FSR_ENABLE_16BIT 1
             #define FSR_MOBILE 1
-        #endif
 
             #include "Packages/com.unity.render-pipelines.core/Runtime/PostProcessing/Shaders/FSRCommon.hlsl"
         #endif
